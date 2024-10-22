@@ -1,4 +1,4 @@
-# 19CS415-AES-Encryption-and-decryption
+# EX-8-ADVANCED ENCRYPTION STANDARD(AES)
 ## AIM:
 To Encrypt and Decrypt a given message using Advanced Encryption Standard (AES) Algorithm.
 
